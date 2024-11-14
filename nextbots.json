@@ -1,1 +1,124 @@
-
+{
+    "nextbots": [
+        {
+            "name": "Chunk The Groundhog",
+            "appearance": {
+                "imageId": "http://www.roblox.com/asset/?id=113524192931127",
+                "audio": {
+                    "id": "rbxassetid://83593007216747",
+                    "volume": 1
+                }
+            }
+        },
+        {
+            "name": "Cosmic Fear Garou",
+            "appearance": {
+                "imageId": "rbxassetid://12758512136",
+                "audio": {
+                    "id": "rbxassetid://75762018985485",
+                    "volume": 1
+                }
+            }
+        },
+        {
+            "name": "The Spot",
+            "appearance": {
+                "imageId": "http://www.roblox.com/asset/?id=104337579692165",
+                "audio": {
+                    "id": "rbxassetid://113607420343726",
+                    "volume": 1
+                }
+            }
+        },
+     {
+            "name": "Apex Predator",
+            "appearance": {
+                "imageId": "rbxassetid://18840464370",
+                "audio": {
+                    "id": "rbxassetid://74380604487525",
+                    "volume": 1
+                }
+            }
+        },
+        {
+            "name": "Baldi",
+            "appearance": {
+                "imageId": "rbxassetid://11465732003",
+                "audio": {
+                    "id": "rbxassetid://1804495872",
+                    "volume": 1
+                }
+            }
+        },
+     {
+            "name": "Smiler",
+            "appearance": {
+                "imageId": "rbxassetid://18840464370",
+                "audio": {
+                    "id": "rbxassetid://14256731588",
+                    "volume": 1
+                }
+            }
+        },
+   {
+            "name": "Pandemonium",
+            "appearance": {
+                "imageId": "rbxassetid://99207315574595",
+                "audio": {
+                    "id": "rbxassetid://107468134341813",
+                    "volume": 1
+                }
+            }
+        },
+   {
+            "name": "Depth",
+            "appearance": {
+                "imageId": "rbxassetid://11278229112",
+                "audio": {
+                    "id": "rbxassetid://80136631421622",
+                    "volume": 1
+                }
+            }
+        },
+ {
+            "name": "Skibidi Toilet",
+            "appearance": {
+                "imageId": "rbxassetid://13966465477",
+                "audio": {
+                    "id": "rbxassetid://79199427187554",
+                    "volume": 1
+                }
+            }
+        },
+ {
+            "name": "Rouge",
+            "appearance": {
+                "imageId": "http://www.roblox.com/asset/?id=115275654168343",
+                "audio": {
+                    "id": "rbxassetid://76052929150478",
+                    "volume": 1
+                }
+            }
+        },
+ {
+            "name": "Rob",
+            "appearance": {
+                "imageId": "http://www.roblox.com/asset/?id=71967985604020",
+                "audio": {
+                    "id": "rbxassetid://92130584365583",
+                    "volume": 1
+                }
+            }
+        },
+ {
+            "name": "Dreamcore Angel",
+            "appearance": {
+                "imageId": "http://www.roblox.com/asset/?id=10680269680",
+                "audio": {
+                    "id": "rbxassetid://9046458196",
+                    "volume": 1
+                }
+            }
+        }
+    ]
+}
