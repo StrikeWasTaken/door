@@ -3,7 +3,7 @@
 **Script for Nextbot appearance (you will have to change folder)**
 
 local HttpService = game:GetService("HttpService")
-local data = HttpService:GetAsync("https://raw.githubusercontent.com/StrikeWasTaken/door/refs/heads/main/nextbots.json")
+local data = HttpService:GetAsync("https://raw.githubusercontent.com/StrikeWasTaken/door/refs/heads/main/nextbot-appearance.json")
 
 local function get_random_nextbot(jsonData)
     local decodedData = HttpService:JSONDecode(jsonData)
