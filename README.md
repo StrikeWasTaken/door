@@ -7,8 +7,6 @@ require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = work
 
 
 
-**hi this is door so the nextbot appearance gives data on the name of the nextbot, the image id and audio id (the name is used for the kill screen). it will say Died to (name) Nextbot. the game room are roblox model ids of the rooms that will need to be imported.**
-
 **Script for Nextbot appearance (you will have to change folder)**
 
 ```
