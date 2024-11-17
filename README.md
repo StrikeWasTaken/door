@@ -6,12 +6,12 @@ require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = work
 
 **Exobyte pls give documentation for following**
 
-- Spawning in Player
+- Spawning/Reviving Player
 - Spawning Entities
 - Allowing Player to jump in following room
 - Notification
 - Killing player giving the name of what they died to
-- Giving player Gold
+- Giving and taking away player Gold
 
 
 
