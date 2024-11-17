@@ -4,6 +4,13 @@
 
 require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = workspace.Player
 
+**Exobyte pls give documentation for following**
+
+- Spawning in Player
+- Spawning Entities
+- Adding Interactions to an object (Click and Gold purchase)
+- Allowing Player to jump in following room
+- Notification
 
 
 
