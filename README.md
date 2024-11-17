@@ -11,6 +11,7 @@ require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = work
 - Adding Interactions to an object (Click and Gold purchase)
 - Allowing Player to jump in following room
 - Notification
+- Killing player giving the name of what they died to
 
 
 
