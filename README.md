@@ -12,7 +12,7 @@ require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = work
 - Allowing Player to jump in following room
 - Notification
 - Killing player giving the name of what they died to
-- Giving player gold
+- Giving player Gold
 
 
 
