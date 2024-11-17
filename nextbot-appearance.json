@@ -117,6 +117,16 @@
                 "audio": {
                     "id": "rbxassetid://9046458196",
                     "volume": 1
+                           }
+            }
+        },
+ {
+            "name": "ExTB",
+            "appearance": {
+                "imageId": "http://www.roblox.com/asset/?id=72417270747934",
+                "audio": {
+                    "id": "rbxassetid://114324152587926",
+                    "volume": 1
                 }
             }
         }
