@@ -8,7 +8,6 @@ require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = work
 
 - Spawning in Player
 - Spawning Entities
-- Adding Interactions to an object (Click and Gold purchase) and then running something based on the interaction
 - Allowing Player to jump in following room
 - Notification
 - Killing player giving the name of what they died to
