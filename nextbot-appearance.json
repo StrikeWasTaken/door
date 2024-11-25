@@ -30,7 +30,7 @@
                 }
             }
         },
-     {
+        {
             "name": "Apex Predator",
             "appearance": {
                 "imageId": "rbxassetid://18840464370",
@@ -50,7 +50,7 @@
                 }
             }
         },
-     {
+        {
             "name": "Smiler",
             "appearance": {
                 "imageId": "rbxassetid://18840464370",
@@ -60,7 +60,7 @@
                 }
             }
         },
-   {
+        {
             "name": "Pandemonium",
             "appearance": {
                 "imageId": "rbxassetid://99207315574595",
@@ -70,7 +70,7 @@
                 }
             }
         },
-   {
+        {
             "name": "Depth",
             "appearance": {
                 "imageId": "rbxassetid://11278229112",
@@ -80,7 +80,7 @@
                 }
             }
         },
- {
+        {
             "name": "Skibidi Toilet",
             "appearance": {
                 "imageId": "rbxassetid://13966465477",
@@ -90,7 +90,7 @@
                 }
             }
         },
- {
+        {
             "name": "Rouge",
             "appearance": {
                 "imageId": "http://www.roblox.com/asset/?id=115275654168343",
@@ -100,7 +100,7 @@
                 }
             }
         },
- {
+        {
             "name": "Rob",
             "appearance": {
                 "imageId": "http://www.roblox.com/asset/?id=71967985604020",
@@ -110,22 +110,32 @@
                 }
             }
         },
- {
+        {
             "name": "Dreamcore Angel",
             "appearance": {
                 "imageId": "http://www.roblox.com/asset/?id=10680269680",
                 "audio": {
                     "id": "rbxassetid://9046458196",
                     "volume": 1
-                           }
+                }
             }
         },
- {
+        {
             "name": "ExTB",
             "appearance": {
                 "imageId": "http://www.roblox.com/asset/?id=72417270747934",
                 "audio": {
                     "id": "rbxassetid://114324152587926",
+                    "volume": 1
+                }
+            }
+        },
+        {
+            "name": "Jpot",
+            "appearance": {
+                "imageId": "http://www.roblox.com/asset/?id=89072648331473",
+                "audio": {
+                    "id": "rbxassetid://79005848510448",
                     "volume": 1
                 }
             }
