@@ -139,6 +139,16 @@
                     "volume": 1
                 }
             }
+        },
+        {
+            "name": "Gabriel",
+            "appearance": {
+                "imageId": "rbxassetid://16344770178",
+                "audio": {
+                    "id": "rbxassetid://128989267773472",
+                    "volume": 1
+                }
+            }
         }
     ]
 }
