@@ -4,15 +4,6 @@
 
 require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = workspace.Player
 
-**Exobyte pls give documentation for following**
-
-- Spawning/Reviving Player
-- Spawning Entities
-- Allowing Player to jump in following room
-- Notification
-- Killing player giving the name of what they died to
-- Giving and taking away player Gold
-
 
 
 **Script for Nextbot appearance (you will have to change folder)**
