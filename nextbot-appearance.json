@@ -134,6 +134,15 @@
                     "id": "rbxassetid://128989267773472"
                 }
             }
+        },
+        {
+            "name": "Habitable Carpet",
+            "appearance": {
+                "imageId": "rbxassetid://102364528653348",
+                "audio": {
+                    "id": "rbxassetid://116889567407795"
+                }
+            }
         }
     ]
 }
