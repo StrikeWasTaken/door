@@ -1,4 +1,3 @@
-**Door Documentation**
 
 **Spawning Items**
 
