@@ -26,7 +26,6 @@ local selectedNextbot = get_random_nextbot(data)
 --selectedNextbot.name
 --selectedNextbot.appearance.imageId
 --selectedNextbot.appearance.audio.id
---selectedNextbot.appearance.audio.volume
 ```
 **Script for game room (change folder)**
 
