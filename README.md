@@ -5,7 +5,7 @@ require(game.ServerStorage.Modules.Assets):GetItem("item"):Clone().Parent = work
 
 
 
-**Script for Nextbot appearance (you will have to change folder)**
+**Script for Nextbot appearance**
 
 ```
 local HttpService = game:GetService("HttpService")
@@ -28,7 +28,7 @@ local selectedNextbot = get_random_nextbot(data)
 --selectedNextbot.appearance.audio.id
 --selectedNextbot.appearance.audio.volume
 ```
-**Script for game room**
+**Script for game room (change folder)**
 
 ```
 local InsertService = game:GetService("InsertService")
