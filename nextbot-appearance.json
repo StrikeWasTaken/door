@@ -48,9 +48,9 @@
         {
             "name": "Smiler",
             "appearance": {
-                "imageId": "rbxassetid://18840464370",
+                "imageId": "rbxassetid://14256731588",
                 "audio": {
-                    "id": "rbxassetid://14256731588"
+                    "id": "rbxassetid://96138346950712"
                 }
             }
         },
@@ -105,15 +105,6 @@
                 "imageId": "http://www.roblox.com/asset/?id=10680269680",
                 "audio": {
                     "id": "rbxassetid://9046458196"
-                }
-            }
-        },
-        {
-            "name": "ExTB",
-            "appearance": {
-                "imageId": "rbxassetid://72417270747934",
-                "audio": {
-                    "id": "rbxassetid://114324152587926"
                 }
             }
         },
