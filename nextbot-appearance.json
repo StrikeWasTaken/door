@@ -125,6 +125,15 @@
                     "id": "rbxassetid://80882813167500"
                 }
             }
+        },
+        {
+            "name": "Freddy Fazbear",
+            "appearance": {
+                "imageId": "rbxassetid://74492824795898",
+                "audio": {
+                    "id": "rbxassetid://79040558184290"
+                }
+            }
         }
     ]
 }
