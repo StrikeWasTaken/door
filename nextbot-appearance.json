@@ -3,7 +3,7 @@
         {
             "name": "Chunk The Groundhog",
             "appearance": {
-                "imageId": "http://www.roblox.com/asset/?id=113524192931127",
+                "imageId": "http://www.roblox.com/asset/?id=87873383921525",
                 "audio": {
                     "id": "rbxassetid://83593007216747"
                 }
@@ -12,7 +12,7 @@
         {
             "name": "Cosmic Fear Garou",
             "appearance": {
-                "imageId": "rbxassetid://12758512136",
+                "imageId": "rbxassetid://114586266173043",
                 "audio": {
                     "id": "rbxassetid://75762018985485"
                 }
@@ -21,7 +21,7 @@
         {
             "name": "The Spot",
             "appearance": {
-                "imageId": "http://www.roblox.com/asset/?id=104337579692165",
+                "imageId": "http://www.roblox.com/asset/?id=112025653010534",
                 "audio": {
                     "id": "rbxassetid://113607420343726"
                 }
@@ -30,7 +30,7 @@
         {
             "name": "Apex Predator",
             "appearance": {
-                "imageId": "rbxassetid://18840464370",
+                "imageId": "rbxassetid://82661665694601",
                 "audio": {
                     "id": "rbxassetid://74380604487525"
                 }
@@ -39,7 +39,7 @@
         {
             "name": "Baldi",
             "appearance": {
-                "imageId": "rbxassetid://11465732003",
+                "imageId": "rbxassetid://124864197804529",
                 "audio": {
                     "id": "rbxassetid://1804495872"
                 }
@@ -48,7 +48,7 @@
         {
             "name": "Smiler",
             "appearance": {
-                "imageId": "rbxassetid://14256731588",
+                "imageId": "rbxassetid://80286001762235",
                 "audio": {
                     "id": "rbxassetid://96138346950712"
                 }
@@ -57,27 +57,9 @@
         {
             "name": "Pandemonium",
             "appearance": {
-                "imageId": "rbxassetid://99207315574595",
+                "imageId": "rbxassetid://133316655574327",
                 "audio": {
                     "id": "rbxassetid://107468134341813"
-                }
-            }
-        },
-        {
-            "name": "Depth",
-            "appearance": {
-                "imageId": "rbxassetid://11278229112",
-                "audio": {
-                    "id": "rbxassetid://80136631421622"
-                }
-            }
-        },
-        {
-            "name": "Skibidi Toilet",
-            "appearance": {
-                "imageId": "rbxassetid://13966465477",
-                "audio": {
-                    "id": "rbxassetid://79199427187554"
                 }
             }
         },
@@ -93,7 +75,7 @@
         {
             "name": "Rob",
             "appearance": {
-                "imageId": "http://www.roblox.com/asset/?id=71967985604020",
+                "imageId": "http://www.roblox.com/asset/?id=75332289109278",
                 "audio": {
                     "id": "rbxassetid://92130584365583"
                 }
@@ -102,7 +84,7 @@
         {
             "name": "Dreamcore Angel",
             "appearance": {
-                "imageId": "http://www.roblox.com/asset/?id=10680269680",
+                "imageId": "http://www.roblox.com/asset/?id=110136765901478",
                 "audio": {
                     "id": "rbxassetid://9046458196"
                 }
@@ -111,7 +93,7 @@
         {
             "name": "Jpot",
             "appearance": {
-                "imageId": "http://www.roblox.com/asset/?id=89072648331473",
+                "imageId": "http://www.roblox.com/asset/?id=112745811715739",
                 "audio": {
                     "id": "rbxassetid://79005848510448"
                 }
@@ -120,7 +102,7 @@
         {
             "name": "Gabriel",
             "appearance": {
-                "imageId": "rbxassetid://16344770178",
+                "imageId": "rbxassetid://71230080616502",
                 "audio": {
                     "id": "rbxassetid://128989267773472"
                 }
@@ -129,9 +111,18 @@
         {
             "name": "Habitable Carpet",
             "appearance": {
-                "imageId": "rbxassetid://102364528653348",
+                "imageId": "rbxassetid://88903554274459",
                 "audio": {
                     "id": "rbxassetid://116889567407795"
+                }
+            }
+        },
+          {
+            "name": "Pomni",
+            "appearance": {
+                "imageId": "rbxassetid://133979118713138",
+                "audio": {
+                    "id": "rbxassetid://80882813167500"
                 }
             }
         }
