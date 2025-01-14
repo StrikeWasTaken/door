@@ -143,6 +143,15 @@
                     "id": "rbxassetid://101017858513439"
                 }
             }
+        },
+          {
+            "name": "Sans",
+            "appearance": {
+                "imageId": "rbxassetid://105428324489132",
+                "audio": {
+                    "id": "rbxassetid://133825987480426"
+                }
+            }
         }
     ]
 }
