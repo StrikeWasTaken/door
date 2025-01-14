@@ -134,6 +134,15 @@
                     "id": "rbxassetid://79040558184290"
                 }
             }
+        },
+         {
+            "name": "Doom Slayer",
+            "appearance": {
+                "imageId": "rbxassetid://72940738537917",
+                "audio": {
+                    "id": "rbxassetid://101017858513439"
+                }
+            }
         }
     ]
 }
